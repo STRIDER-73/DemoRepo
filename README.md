@@ -1,3 +1,3 @@
 # Demo
 
-Hello Using this Repo to learn Git.
+Time for someone to leave and for someone to join.
